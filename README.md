@@ -1,8 +1,8 @@
 JCompare is a lightweight text comparison tool made in Java, it allows for anything thats a text, from binaries to checksums
 
-☕ Made in Java
-💻 Runs everywhere with JVM
-⚡ Super lightweight made with only 18 lines of code
+☕ *Made in Java*
+💻 *Runs everywhere with JVM*
+⚡ *Super lightweight made with only 18 lines of code*
 
 # Installation
 *from source*
